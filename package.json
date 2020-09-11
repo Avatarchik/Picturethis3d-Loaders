@@ -1,0 +1,22 @@
+{
+  "name": "com.picturethis3d.loaders",
+  "version": "0.1.0",
+  "displayName": "Picturethis3d Loaders",
+  "description": "Sprite, Texture, GameObject addressable asset loaders",
+  "unity": "2020.2",
+  "unityRelease": "0b2",
+  "dependencies": {
+    "com.unity.addressables": "1.15.1"
+  },
+  "keywords": [
+    "picturethis",
+    "picturethis3d",
+    "loader",
+    "loaders"
+  ],
+  "author": {
+    "name": "Roman Naumov",
+    "email": "roman@picturethis3d.com",
+    "url": "https://www.picturethis3d.com"
+  }
+}
